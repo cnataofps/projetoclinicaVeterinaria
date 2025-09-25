@@ -36,11 +36,11 @@ Aplicar os conceitos aprendidos no curso para desenvolver uma API funcional, esc
 
 ## 📂 Estrutura do Projeto
 
-src/
--├── controllers/ # Camada de controle (API REST)
--├── entities/ # Entidades JPA (Animal, Consulta)
--├── repository/ # Interfaces de persistência 
--├── services/ # Regras de negócio
+- src/
+- ├── controllers/ # Camada de controle (API REST)
+- ├── entities/ # Entidades JPA (Animal, Consulta)
+- ├── repository/ # Interfaces de persistência 
+- ├── services/ # Regras de negócio
 
 ---
 
@@ -93,4 +93,5 @@ src/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
 
